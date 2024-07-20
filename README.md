@@ -1,1 +1,2 @@
 # PRODIGY_ML_02
+## The project involves using K-means clustering to analyze retail purchase behavior based on customer demographics and spending scores. By clustering customers based on attributes such as age, gender, annual income, and spending scores, the analysis aims to uncover distinct customer segments. These insights help in tailoring marketing strategies to effectively target and engage different customer groups
